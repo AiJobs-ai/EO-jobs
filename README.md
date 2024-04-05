@@ -25,6 +25,7 @@ Climate
 
 AI
 - [ai-jobs](https://ai-jobs.net/) has many EO companies, too
+- [aijobs.ai] (https://aijobs.ai/) 
 
 
 ## Overviews of EO & geospatial & NewSpace companies
